@@ -1,2 +1,2 @@
 # Quantitative Finance
-Repo has Jupyter notebooks showing basic finance calculations
+Repo has Jupyter notebooks showing quantitative finance calculations
